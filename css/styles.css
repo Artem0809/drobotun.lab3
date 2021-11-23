@@ -1,0 +1,53 @@
+body{
+  background-color: #FFEBCD;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #696969;
+    border-width: 7px;
+    width: 4%
+}
+h1{
+  color:#191970; ;
+}
+p{
+  border-style: dashed;
+  border-color: #DEB887;
+  background-color: #FFDEAD;
+}
+.blueh2 {
+  color: #1E90FF;
+  background-color: #FFFFE0;
+  width: 14%;
+  text-decoration: underline;
+  text-decoration-color: #8A2BE2;
+}
+#table {
+  color:#000000 ;
+  background-color:#FA8072;
+  font-family:fantasy;
+  border-style:solid;
+}
+#table1 {
+  background-image: url(https://pw.artfile.me/wallpaper/25-04-2016/650x366/vektornaya-grafika-grafika--graphics-orn-1031412.jpg);
+  color: white;
+}
+#tablea {
+  color:#000000 ;
+    background-color:#AFEEEE;
+    font-family:monospace;
+    border-style:solid;
+}
+a:link {
+    color: #FF0000;
+}
+a:visited {
+    color: #7B68EE  ;
+}
+a:hover {
+    color: #FF00FF;
+}
+a:active {
+    color: #00FF00;
+}
